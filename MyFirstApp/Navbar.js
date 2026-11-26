@@ -11,6 +11,13 @@ import {
 import { BlurView } from "expo-blur";
 import { safeRole } from "./accessibility";
 
+
+
+
+
+
+
+
 export const NAV_ITEMS = [
   { id: "home", label: "Home" },
   { id: "about", label: "About" },
